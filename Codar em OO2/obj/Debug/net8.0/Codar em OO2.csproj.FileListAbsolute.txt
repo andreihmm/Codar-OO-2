@@ -12,3 +12,18 @@ C:\DevC\Codar em OO2\obj\Debug\net8.0\refint\Codar em OO2.dll
 C:\DevC\Codar em OO2\obj\Debug\net8.0\Codar em OO2.pdb
 C:\DevC\Codar em OO2\obj\Debug\net8.0\Codar em OO2.genruntimeconfig.cache
 C:\DevC\Codar em OO2\obj\Debug\net8.0\ref\Codar em OO2.dll
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.AssemblyInfoInputs.cache
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.AssemblyInfo.cs
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.csproj.CoreCompileInputs.cache
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.sourcelink.json
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.dll
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\refint\Codar em OO2.dll
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.pdb
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\bin\Debug\net8.0\Codar em OO2.exe
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\bin\Debug\net8.0\Codar em OO2.deps.json
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\bin\Debug\net8.0\Codar em OO2.runtimeconfig.json
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\bin\Debug\net8.0\Codar em OO2.dll
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\bin\Debug\net8.0\Codar em OO2.pdb
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\Codar em OO2.genruntimeconfig.cache
+C:\Users\shawd\source\repos\andreihmm\Codar em OO2\Codar em OO2\obj\Debug\net8.0\ref\Codar em OO2.dll

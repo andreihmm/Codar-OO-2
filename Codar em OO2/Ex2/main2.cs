@@ -22,8 +22,18 @@ namespace Codar_em_OO2.Ex2
         {
             Airport a1 = new();
             Helicopter h = new Helicopter();
+            DomesticatedGryphon dg = new DomesticatedGryphon();
+            Airplane a = new();
 
-            a1.accept(h);
+
+            
+            Console.WriteLine($"status: {a1.accept(dg, "Vix", "VV", 11)}");
+            a1.Clean();
+            Console.WriteLine($"status: {a1.accept(a, "Vix", "VV", 11)}");
+            Console.WriteLine($"status: {a1.accept(h, "Vix", "VV", 11)}");
+            a1.Clean();
+            Console.WriteLine($"status: {a1.accept(h, "Vix", "VV", 11)}");
+
 
             return 0;
         }

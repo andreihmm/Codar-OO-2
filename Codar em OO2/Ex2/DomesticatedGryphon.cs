@@ -10,7 +10,7 @@ namespace Codar_em_OO2.Ex2
     {
         public void fly(String origem, String destino, int passageiros)
         {
-            Console.WriteLine($"GRIFO:: Sainde de: Para: Quantos passageiros: ");
+            Console.WriteLine($"GRIFO:: Sainde de: {origem} Para: {destino} Quantos passageiros: {passageiros}");
         }
 
     }

@@ -7,15 +7,25 @@ using Codar_em_OO2.Ex2;
 
 namespace Codar_em_OO2.Ex2
 {
+    
+
     internal class Airport
     {
-        public bool accept(IFlyingTransport veiculo)
+        IFlyingTransport? Vehicle { get; set; }
+        public bool accept(IFlyingTransport veiculo, string origem, string destino, int passageiros)
         {
-            if (veiculo != null)
+            if (Vehicle != null)
             {
-                return true;
+                Console.WriteLine("Airport ocupado!!!");
+                return false;
             }
-            return false;
+            Vehicle = veiculo;
+            Vehicle.fly(origem, destino, passageiros);
+            return true;
+        }
+        public void Clean()
+        {
+            Vehicle = null;
         }
     }
 }

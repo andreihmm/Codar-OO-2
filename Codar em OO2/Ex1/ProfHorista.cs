@@ -8,11 +8,17 @@ namespace Codar_em_OO2.Ex1
 {
     internal class ProfHorista : Professor
     {
-        private double valorHora;
+        public double valorHora { get; set; }
+
+        public ProfHorista(double valorHora, string nome, int matricula, int cargaHoraria, double beneficio)
+    : base(nome, matricula, cargaHoraria, beneficio) // Call to base class constructor
+        {
+            this.valorHora = valorHora;
+        }
 
         public override void calcularBeneficio()
         {
-            double aux = getBeneficio() * valorHora;
+            double aux = _beneficio * valorHora;
             Console.WriteLine($"\n{aux}");
         }
     }

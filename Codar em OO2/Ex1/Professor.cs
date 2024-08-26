@@ -9,7 +9,7 @@ namespace Codar_em_OO2.Ex1
     internal abstract class Professor
     {
 
-        public Professor(String nome, int matricula, int cargaHoraria, double beneficio)
+        public Professor(string nome, int matricula, int cargaHoraria, double beneficio)
         {
             this._nome = nome;
             this._matricula = matricula;
@@ -22,11 +22,11 @@ namespace Codar_em_OO2.Ex1
         //    get => _nome; 
         //    set => _nome = value; 
         //}
-        private string _nome {  get; }
-        private int _matricula {  get; }
-        private int _cargaHoraria {  get; }
+        public string _nome { get; set;  }
+        public int _matricula { get; set; }
+        public int _cargaHoraria { get; set;  }
 
-        private double _beneficio { get; }
+        public double _beneficio { get; set;  }
 
         public abstract void calcularBeneficio();
 

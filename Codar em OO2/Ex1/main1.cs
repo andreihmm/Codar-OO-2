@@ -22,9 +22,6 @@ namespace Codar_em_OO2.Ex1
 
             Console.WriteLine($"PROFDE: {profDE._nome}");
 
-            profDE._nome = "ola";
-
-            Console.WriteLine($"PROFDE: {profDE.Nome}");
 
 
             return 0;
