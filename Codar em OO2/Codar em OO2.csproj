@@ -6,7 +6,7 @@
     <RootNamespace>Codar_em_OO2</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Codar_em_OO2.Ex2.main2</StartupObject>
+    <StartupObject>Codar_em_OO2.Ex4.main4</StartupObject>
   </PropertyGroup>
 
 </Project>
